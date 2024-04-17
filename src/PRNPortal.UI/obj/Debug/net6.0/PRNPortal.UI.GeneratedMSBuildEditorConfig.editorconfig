@@ -1,0 +1,363 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRNPortal.UI
+build_property.RootNamespace = PRNPortal.UI
+build_property.ProjectDir = C:\Users\a919519\source\repos\epr-prn-manage-frontend\src\PRNPortal.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\a919519\source\repos\epr-prn-manage-frontend\src\PRNPortal.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadFailure/FileUploadFailure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZEZhaWx1cmVcRmlsZVVwbG9hZEZhaWx1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadingCompanyDetails/FileUploadingCompanyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZGluZ0NvbXBhbnlEZXRhaWxzXEZpbGVVcGxvYWRpbmdDb21wYW55RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PRNPortal/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PRNPortal/SelectComplianceScheme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PRNPortal/Stop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PRNPortal/UsingComplianceScheme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/CompanyDetailsConfirmation/CompanyDetailsConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNDb25maXJtYXRpb25cQ29tcGFueURldGFpbHNDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/ComplianceSchemeLanding/ComplianceSchemeLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxpYW5jZVNjaGVtZUxhbmRpbmdcQ29tcGxpYW5jZVNjaGVtZUxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/ComplianceSchemeMemberLanding/ComplianceSchemeMemberLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxpYW5jZVNjaGVtZU1lbWJlckxhbmRpbmdcQ29tcGxpYW5jZVNjaGVtZU1lbWJlckxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Cookies/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llc1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/DeclarationWithFullName/DeclarationWithFullName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVjbGFyYXRpb25XaXRoRnVsbE5hbWVcRGVjbGFyYXRpb25XaXRoRnVsbE5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Declaration/Declaration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVjbGFyYXRpb25cRGVjbGFyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Error/ProblemWithServiceError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcUHJvYmxlbVdpdGhTZXJ2aWNlRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Error/ProblemWithSubmissionError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcUHJvYmxlbVdpdGhTdWJtaXNzaW9uRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileReUploadCompanyDetailsConfirmation/FileReUploadCompanyDetailsConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVJlVXBsb2FkQ29tcGFueURldGFpbHNDb25maXJtYXRpb25cRmlsZVJlVXBsb2FkQ29tcGFueURldGFpbHNDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileReUploadConfirmation/FileReUploadConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVJlVXBsb2FkQ29uZmlybWF0aW9uXEZpbGVSZVVwbG9hZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadBrandsSuccess/FileUploadBrandsSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZEJyYW5kc1N1Y2Nlc3NcRmlsZVVwbG9hZEJyYW5kc1N1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadBrands/FileUploadBrands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZEJyYW5kc1xGaWxlVXBsb2FkQnJhbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadCheckFileAndSubmit/FileUploadCheckFileAndSubmit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZENoZWNrRmlsZUFuZFN1Ym1pdFxGaWxlVXBsb2FkQ2hlY2tGaWxlQW5kU3VibWl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadCompanyDetailsErrors/FileUploadCompanyDetailsErrors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZENvbXBhbnlEZXRhaWxzRXJyb3JzXEZpbGVVcGxvYWRDb21wYW55RGV0YWlsc0Vycm9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadCompanyDetailsSubLanding/FileUploadCompanyDetailsSubLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZENvbXBhbnlEZXRhaWxzU3ViTGFuZGluZ1xGaWxlVXBsb2FkQ29tcGFueURldGFpbHNTdWJMYW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadCompanyDetailsSuccess/FileUploadCompanyDetailsSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZENvbXBhbnlEZXRhaWxzU3VjY2Vzc1xGaWxlVXBsb2FkQ29tcGFueURldGFpbHNTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadCompanyDetails/FileUploadCompanyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZENvbXBhbnlEZXRhaWxzXEZpbGVVcGxvYWRDb21wYW55RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadingBrands/FileUploadingBrands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZGluZ0JyYW5kc1xGaWxlVXBsb2FkaW5nQnJhbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadingPartnerships/FileUploadingPartnerships.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZGluZ1BhcnRuZXJzaGlwc1xGaWxlVXBsb2FkaW5nUGFydG5lcnNoaXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploading/FileUploading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZGluZ1xGaWxlVXBsb2FkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadPartnershipsSuccess/FileUploadPartnershipsSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFBhcnRuZXJzaGlwc1N1Y2Nlc3NcRmlsZVVwbG9hZFBhcnRuZXJzaGlwc1N1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadPartnerships/FileUploadPartnerships.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFBhcnRuZXJzaGlwc1xGaWxlVXBsb2FkUGFydG5lcnNoaXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadSubLanding/FileUploadSubLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFN1YkxhbmRpbmdcRmlsZVVwbG9hZFN1YkxhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadSubmissionConfirmation/FileUploadSubmissionConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFN1Ym1pc3Npb25Db25maXJtYXRpb25cRmlsZVVwbG9hZFN1Ym1pc3Npb25Db25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadSubmissionDeclaration/FileUploadSubmissionDeclaration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFN1Ym1pc3Npb25EZWNsYXJhdGlvblxGaWxlVXBsb2FkU3VibWlzc2lvbkRlY2xhcmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadSubmissionError/FileUploadSubmissionError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFN1Ym1pc3Npb25FcnJvclxGaWxlVXBsb2FkU3VibWlzc2lvbkVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUploadWarning/FileUploadWarning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFdhcm5pbmdcRmlsZVVwbG9hZFdhcm5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FileUpload/FileUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFxGaWxlVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/ChangeComplianceSchemeOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cQ2hhbmdlQ29tcGxpYW5jZVNjaGVtZU9wdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/HomePageSelfManaged.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cSG9tZVBhZ2VTZWxmTWFuYWdlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cTGFuZGluZ1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/SelectComplianceScheme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cU2VsZWN0Q29tcGxpYW5jZVNjaGVtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/Stop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cU3RvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/FrontendSchemeRegistration/UsingComplianceScheme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRTY2hlbWVSZWdpc3RyYXRpb25cVXNpbmdDb21wbGlhbmNlU2NoZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Home/SignedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduZWRPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/NominatedDelegatedPerson/ConfirmPermissionSubmitData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hdGVkRGVsZWdhdGVkUGVyc29uXENvbmZpcm1QZXJtaXNzaW9uU3VibWl0RGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/NominatedDelegatedPerson/InviteChangePermissions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hdGVkRGVsZWdhdGVkUGVyc29uXEludml0ZUNoYW5nZVBlcm1pc3Npb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/NominatedDelegatedPerson/TelephoneNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hdGVkRGVsZWdhdGVkUGVyc29uXFRlbGVwaG9uZU51bWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/OrganisationDetailsSubmissionFailed/OrganisationDetailsSubmissionFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pc2F0aW9uRGV0YWlsc1N1Ym1pc3Npb25GYWlsZWRcT3JnYW5pc2F0aW9uRGV0YWlsc1N1Ym1pc3Npb25GYWlsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PackagingRecoveryNote/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnaW5nUmVjb3ZlcnlOb3RlXExhbmRpbmdQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PackagingRecoveryNote/PrnHomeViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnaW5nUmVjb3ZlcnlOb3RlXFBybkhvbWVWaWV3TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/PrivacyPolicy/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeVBvbGljeVxQcml2YWN5UG9saWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Privacy/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/ReviewCompanyDetails/ReviewCompanyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3Q29tcGFueURldGFpbHNcUmV2aWV3Q29tcGFueURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/ConfirmationOfRemoval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxDb25maXJtYXRpb25PZlJlbW92YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/ConfirmRemoval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxDb25maXJtUmVtb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/MemberDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxNZW1iZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/ReasonsForRemoval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxSZWFzb25zRm9yUmVtb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/SchemeMembers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxTY2hlbWVNZW1iZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/SchemeMembership/TellUsMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZW1lTWVtYmVyc2hpcFxUZWxsVXNNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Components/CookieBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29va2llQmFubmVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Components/LanguageSwitcher/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFuZ3VhZ2VTd2l0Y2hlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Components/PendingApprovalNotification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGVuZGluZ0FwcHJvdmFsTm90aWZpY2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Components/PhaseBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGhhc2VCYW5uZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Components/PrimaryNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJpbWFyeU5hdmlnYXRpb25cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_AccountActionBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9BY2NvdW50QWN0aW9uQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_BackLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9CYWNrTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvclN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorsViewModelError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvcnNWaWV3TW9kZWxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorsViewModelSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvcnNWaWV3TW9kZWxTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_FormItemError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Gb3JtSXRlbUVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_HomeLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Ib21lTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_WarningText.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9XYXJuaW5nVGV4dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/NominatedDelegatedPerson/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vbWluYXRlZERlbGVnYXRlZFBlcnNvblxfRXJyb3JTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/NominatedDelegatedPerson/_FormItemError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vbWluYXRlZERlbGVnYXRlZFBlcnNvblxfRm9ybUl0ZW1FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Notifications/_NominatedAsDelegatedPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vdGlmaWNhdGlvbnNcX05vbWluYXRlZEFzRGVsZWdhdGVkUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/Notifications/_WaitingForApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vdGlmaWNhdGlvbnNcX1dhaXRpbmdGb3JBcHByb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/RecordNavigation/_RecordCount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFJlY29yZE5hdmlnYXRpb25cX1JlY29yZENvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/RecordNavigation/_RecordPaging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFJlY29yZE5hdmlnYXRpb25cX1JlY29yZFBhZ2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/Partials/SchemeMembership/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNjaGVtZU1lbWJlcnNoaXBcX0Vycm9yU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/UploadNewFileToSubmit/UploadNewFileToSubmit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBsb2FkTmV3RmlsZVRvU3VibWl0XFVwbG9hZE5ld0ZpbGVUb1N1Ym1pdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a919519/source/repos/epr-prn-manage-frontend/src/PRNPortal.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xlff7w8s4v

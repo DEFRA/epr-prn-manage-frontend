@@ -1,0 +1,19 @@
+﻿@using PRNPortal.UI
+@using PRNPortal.UI.ViewModels
+@using PRNPortal.UI.ViewModels.GovUk
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Localization
+@using PRNPortal.UI.Extensions
+@using Microsoft.AspNetCore.Mvc.ModelBinding
+@using PRNPortal.Application.Extensions
+@using PRNPortal.Application.Options
+@using Microsoft.Extensions.Options
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Microsoft.FeatureManagement.AspNetCore
+@addTagHelper *, PRNPortal.UI
+
+@inject IViewLocalizer Localizer
+@inject IStringLocalizer<SharedResources> SharedLocalizer
+@inject IOptions<GlobalVariables> GlobalVariables;
+@inject IOptions<GuidanceLinkOptions> GuidanceLinks;

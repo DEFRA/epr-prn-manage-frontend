@@ -1,0 +1,1 @@
+const printBtn=document.getElementById("printButton");function printPage(){window.print()}printBtn&&printBtn.addEventListener("click",printPage);
