@@ -1,0 +1,98 @@
+@model FileUploadFailureViewModel
+
+@{
+    var title =  @Localizer[Model.HasWarnings ? "packaging_data_not_uploaded_fix_the_errors_and_check_the_warnings" : "packaging_data_not_uploaded_fix_the_errors_and_try_again"];
+    ViewData["Title"] = title;
+}
+
+@await Html.PartialAsync("Partials/Govuk/_AccountActionBar")
+
+<main class="govuk-main-wrapper" id="main-content" role="main">
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-two-thirds">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                @await Html.PartialAsync("Partials/Govuk/_ErrorSummary", ViewData.ModelState)
+            }
+
+            <h1 class="govuk-heading-l">
+                @title
+            </h1>
+
+            <p class="govuk-body">@Localizer["your_data_file_has_not_been_uploaded"]</p>
+
+            @if (Model.HasWarnings)
+            {
+                <p class="govuk-body">@Localizer["there_are_some_warnings"]</p>
+            }
+
+            <h2 class="govuk-heading-m">
+                @Localizer[Model.HasWarnings ? "how_to_fix_errors_and_check_warnings" : "how_to_fix_errors"]
+            </h2>
+            <ol class="govuk-list govuk-list--number">
+                    @if (Model.HasWarnings)
+                    {
+                        <li>
+                            @Html.ActionLink(
+                                string.Format(Localizer["download_error_report"].Value, Model.MaxReportSize),
+                                "Get",
+                                "FileUploadIssueReport",
+                                new
+                                {
+                                    submissionId = Model.SubmissionId
+                                },
+                                new
+                                {
+                                    @class = "govuk-link govuk-!-font-size-19 govuk-!-margin-bottom-4 govuk-link govuk-link--no-visited-state"
+                                }). @Localizer["this_tells_you_where_the_errors_and_warnings_are"]
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Html.ActionLink(
+                                string.Format(Localizer["download_error_report"].Value, Model.MaxReportSize),
+                                "Get",
+                                "FileUploadIssueReport",
+                                new
+                                {
+                                    submissionId = Model.SubmissionId
+                                },
+                                new
+                                {
+                                    @class = "govuk-link govuk-!-font-size-19 govuk-!-margin-bottom-4 govuk-link govuk-link--no-visited-state"
+                                }). @Localizer["this_tells_you_where_the_errors_are"]
+                        </li>
+                    }
+                <li>
+                    @Localizer["use_the_report_to_fix_the_errors"]
+                    <a href="@GuidanceLinks.Value.HowToBuildCsvFileToReportYourPackagingData"
+                       class="govuk-link" rel="noreferrer noopener" target="_blank">
+                        @Localizer["file_specification_guidance"]</a>.
+                </li>
+                <li>
+                    @Localizer[Model.HasWarnings ? "check_warnings_update_data" : "fix_errors_upload_file_again"]
+                </li>
+                @if (Model.HasWarnings)
+                {
+                    <li>
+                        @Localizer["when_youve_fixed_the_errors_and_checked_warnings_in_your_file"]
+                    </li>
+                }
+            </ol>
+            <h2 class="govuk-notification-banner__heading" data-testid="pom-upload-banner-text">
+                @Localizer["how_the_error_report_works"]
+            </h2>
+            <p class="govuk-body">@Localizer["your_error_report_only_show_first_x_errors", string.Format($"{Model.MaxErrorsToProcess:n0}")]</p>
+           @Html.ActionLink(
+               @SharedLocalizer["upload_your_file_again"],
+                "Get",
+                "FileUpload",
+                null,
+                new
+                {
+                    @class = "govuk-button"
+                })
+        </div>
+    </div>
+</main>
