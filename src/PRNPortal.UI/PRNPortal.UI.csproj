@@ -12,6 +12,101 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="Views\FileUploadBrandsSuccess\**" />
+      <Compile Remove="Views\FileUploadBrands\**" />
+      <Compile Remove="Views\FileUploadCheckFileAndSubmit\**" />
+      <Compile Remove="Views\FileUploadCompanyDetailsErrors\**" />
+      <Compile Remove="Views\FileUploadCompanyDetailsSubLanding\**" />
+      <Compile Remove="Views\FileUploadCompanyDetailsSuccess\**" />
+      <Compile Remove="Views\FileUploadCompanyDetails\**" />
+      <Compile Remove="Views\FileUploadFailure\**" />
+      <Compile Remove="Views\FileUploadingBrands\**" />
+      <Compile Remove="Views\FileUploadingCompanyDetails\**" />
+      <Compile Remove="Views\FileUploadingPartnerships\**" />
+      <Compile Remove="Views\FileUploading\**" />
+      <Compile Remove="Views\FileUploadPartnershipsSuccess\**" />
+      <Compile Remove="Views\FileUploadPartnerships\**" />
+      <Compile Remove="Views\FileUploadSubLanding\**" />
+      <Compile Remove="Views\FileUploadSubmissionConfirmation\**" />
+      <Compile Remove="Views\FileUploadSubmissionDeclaration\**" />
+      <Compile Remove="Views\FileUploadSubmissionError\**" />
+      <Compile Remove="Views\FileUploadWarning\**" />
+      <Compile Remove="Views\FileUpload\**" />
+      <Compile Remove="Views\NominatedDelegatedPerson\**" />
+      <Compile Remove="Views\OrganisationDetailsSubmissionFailed\**" />
+      <Compile Remove="Views\UploadNewFileToSubmit\**" />
+      <Content Remove="Views\FileUploadBrandsSuccess\**" />
+      <Content Remove="Views\FileUploadBrands\**" />
+      <Content Remove="Views\FileUploadCheckFileAndSubmit\**" />
+      <Content Remove="Views\FileUploadCompanyDetailsErrors\**" />
+      <Content Remove="Views\FileUploadCompanyDetailsSubLanding\**" />
+      <Content Remove="Views\FileUploadCompanyDetailsSuccess\**" />
+      <Content Remove="Views\FileUploadCompanyDetails\**" />
+      <Content Remove="Views\FileUploadFailure\**" />
+      <Content Remove="Views\FileUploadingBrands\**" />
+      <Content Remove="Views\FileUploadingCompanyDetails\**" />
+      <Content Remove="Views\FileUploadingPartnerships\**" />
+      <Content Remove="Views\FileUploading\**" />
+      <Content Remove="Views\FileUploadPartnershipsSuccess\**" />
+      <Content Remove="Views\FileUploadPartnerships\**" />
+      <Content Remove="Views\FileUploadSubLanding\**" />
+      <Content Remove="Views\FileUploadSubmissionConfirmation\**" />
+      <Content Remove="Views\FileUploadSubmissionDeclaration\**" />
+      <Content Remove="Views\FileUploadSubmissionError\**" />
+      <Content Remove="Views\FileUploadWarning\**" />
+      <Content Remove="Views\FileUpload\**" />
+      <Content Remove="Views\NominatedDelegatedPerson\**" />
+      <Content Remove="Views\OrganisationDetailsSubmissionFailed\**" />
+      <Content Remove="Views\UploadNewFileToSubmit\**" />
+      <EmbeddedResource Remove="Views\FileUploadBrandsSuccess\**" />
+      <EmbeddedResource Remove="Views\FileUploadBrands\**" />
+      <EmbeddedResource Remove="Views\FileUploadCheckFileAndSubmit\**" />
+      <EmbeddedResource Remove="Views\FileUploadCompanyDetailsErrors\**" />
+      <EmbeddedResource Remove="Views\FileUploadCompanyDetailsSubLanding\**" />
+      <EmbeddedResource Remove="Views\FileUploadCompanyDetailsSuccess\**" />
+      <EmbeddedResource Remove="Views\FileUploadCompanyDetails\**" />
+      <EmbeddedResource Remove="Views\FileUploadFailure\**" />
+      <EmbeddedResource Remove="Views\FileUploadingBrands\**" />
+      <EmbeddedResource Remove="Views\FileUploadingCompanyDetails\**" />
+      <EmbeddedResource Remove="Views\FileUploadingPartnerships\**" />
+      <EmbeddedResource Remove="Views\FileUploading\**" />
+      <EmbeddedResource Remove="Views\FileUploadPartnershipsSuccess\**" />
+      <EmbeddedResource Remove="Views\FileUploadPartnerships\**" />
+      <EmbeddedResource Remove="Views\FileUploadSubLanding\**" />
+      <EmbeddedResource Remove="Views\FileUploadSubmissionConfirmation\**" />
+      <EmbeddedResource Remove="Views\FileUploadSubmissionDeclaration\**" />
+      <EmbeddedResource Remove="Views\FileUploadSubmissionError\**" />
+      <EmbeddedResource Remove="Views\FileUploadWarning\**" />
+      <EmbeddedResource Remove="Views\FileUpload\**" />
+      <EmbeddedResource Remove="Views\NominatedDelegatedPerson\**" />
+      <EmbeddedResource Remove="Views\OrganisationDetailsSubmissionFailed\**" />
+      <EmbeddedResource Remove="Views\UploadNewFileToSubmit\**" />
+      <None Remove="Views\FileUploadBrandsSuccess\**" />
+      <None Remove="Views\FileUploadBrands\**" />
+      <None Remove="Views\FileUploadCheckFileAndSubmit\**" />
+      <None Remove="Views\FileUploadCompanyDetailsErrors\**" />
+      <None Remove="Views\FileUploadCompanyDetailsSubLanding\**" />
+      <None Remove="Views\FileUploadCompanyDetailsSuccess\**" />
+      <None Remove="Views\FileUploadCompanyDetails\**" />
+      <None Remove="Views\FileUploadFailure\**" />
+      <None Remove="Views\FileUploadingBrands\**" />
+      <None Remove="Views\FileUploadingCompanyDetails\**" />
+      <None Remove="Views\FileUploadingPartnerships\**" />
+      <None Remove="Views\FileUploading\**" />
+      <None Remove="Views\FileUploadPartnershipsSuccess\**" />
+      <None Remove="Views\FileUploadPartnerships\**" />
+      <None Remove="Views\FileUploadSubLanding\**" />
+      <None Remove="Views\FileUploadSubmissionConfirmation\**" />
+      <None Remove="Views\FileUploadSubmissionDeclaration\**" />
+      <None Remove="Views\FileUploadSubmissionError\**" />
+      <None Remove="Views\FileUploadWarning\**" />
+      <None Remove="Views\FileUpload\**" />
+      <None Remove="Views\NominatedDelegatedPerson\**" />
+      <None Remove="Views\OrganisationDetailsSubmissionFailed\**" />
+      <None Remove="Views\UploadNewFileToSubmit\**" />
+    </ItemGroup>
+
+    <ItemGroup>
         <ProjectReference Include="..\PRNPortal.Application\PRNPortal.Application.csproj" />
     </ItemGroup>
 
@@ -867,8 +962,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <AdditionalFiles Include="Views\FileUploadFailure\FileUploadFailure.cshtml" />
-        <AdditionalFiles Include="Views\FileUploadingCompanyDetails\FileUploadingCompanyDetails.cshtml" />
         <AdditionalFiles Include="Views\PRNPortal\LandingPage.cshtml" />
         <AdditionalFiles Include="Views\PRNPortal\SelectComplianceScheme.cshtml" />
         <AdditionalFiles Include="Views\PRNPortal\Stop.cshtml" />
