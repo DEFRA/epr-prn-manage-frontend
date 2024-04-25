@@ -117,9 +117,9 @@ namespace PRNPortal.UI.Resources.Views.ComplianceSchemeLanding {
         /// <summary>
         ///   Looks up a localized string similar to .
         /// </summary>
-        internal static string packaging_recovery_notes {
+        internal static string packaging_recycling_notes {
             get {
-                return ResourceManager.GetString("packaging_recovery_notes", resourceCulture);
+                return ResourceManager.GetString("packaging_recycling_notes", resourceCulture);
             }
         }
         

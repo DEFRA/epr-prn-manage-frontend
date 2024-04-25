@@ -33,7 +33,7 @@
     <data name="change_or_remove_compliance_scheme" xml:space="preserve">
         <value>Newid neu ddileu cynllun cydymffurfio</value>
     </data>
-    <data name="handling_packaging_recovery_notes_(PRNs)_and_packaging_export_recovery_notes_(PERNs)" xml:space="preserve">
+    <data name="handling_packaging_recycling_notes_(PRNs)_and_packaging_export_recovery_notes_(PERNs)" xml:space="preserve">
         <value>trin nodiadau ailgylchu gwastraff pecynwaith (PRNs) a nodiadau ailgylchu allforio pecynwaith gwastraff (PERNs) - mae’r rhain yn dystiolaeth bod gwastraff pecynwaith wedi’i adfer, wedi’i ailbrosesu neu wedi’i allforio </value>
     </data>
     <data name="compliance_scheme_name" xml:space="preserve">

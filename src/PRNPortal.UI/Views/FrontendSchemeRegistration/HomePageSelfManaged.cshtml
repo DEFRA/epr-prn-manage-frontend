@@ -95,7 +95,7 @@
         <div class="govuk-grid-column-one-half">
             <div class="govuk-card govuk-card--grey govuk-card--border-bottom-blue govuk-!-margin-bottom-7">
                 <div class="govuk-card-body">
-                    <h2 class="govuk-heading-m">@Localizer["packaging_recovery_notes"]</h2>
+                    <h2 class="govuk-heading-m">@Localizer["packaging_recycling_notes"]</h2>
                     <p class="govuk-body govuk-!-margin-bottom-0">@Localizer["no_action_needed_at_the_moment"]</p>
                 </div>
             </div>
@@ -114,12 +114,12 @@
         <div class="govuk-grid-column-one-half">
             <div class="govuk-card govuk-card--grey govuk-card--border-bottom-blue govuk-!-margin-bottom-7">
                 <div class="govuk-card-body">
-                    <h2 class="govuk-heading-m">@Localizer["packaging_recovery_notes"]</h2>
+                    <h2 class="govuk-heading-m">@Localizer["packaging_recycling_notes"]</h2>
                     <h2 class="govuk-heading-m">
                     @Html.ActionLink(
                              "Raise PRN/PERN",
                              "Get",
-                             "FileUploadCompanyDetailsSubLanding",
+                             "PackagingRecyclingNote",
                              null,
                              new
                              {
@@ -129,8 +129,8 @@
                     <h2 class="govuk-heading-m">
                         @Html.ActionLink(
                                  "View PRN/PERN",
-                                 "Get",
-                                 "FileUploadCompanyDetailsSubLanding",
+                                 "PrnDetail",
+                                 "PackagingRecyclingNote",
                                  null,
                                  new
                                  {

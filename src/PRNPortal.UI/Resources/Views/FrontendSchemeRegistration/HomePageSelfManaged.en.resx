@@ -20,7 +20,7 @@
     <data name="report_packaging_data" xml:space="preserve">
         <value>Report packaging data</value>
     </data>
-    <data name="packaging_recovery_notes" xml:space="preserve">
+    <data name="packaging_recycling_notes" xml:space="preserve">
         <value>Packaging waste recovery notes (PRNs) and packaging waste export recovery notes (PERNs)</value>
     </data>
     <data name="no_action_needed_at_the_moment" xml:space="preserve">

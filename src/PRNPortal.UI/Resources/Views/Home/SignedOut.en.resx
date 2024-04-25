@@ -21,6 +21,6 @@
         <value>Signed out</value>
     </data>
     <data name="SignedOut.Description" xml:space="preserve">
-        <value>You have signed out of the ‘Report packaging data’ service.</value>
+        <value>You have signed out of the ‘Packaging Recycling Note’ service.</value>
     </data>
 </root>

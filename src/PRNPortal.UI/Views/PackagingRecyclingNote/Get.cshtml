@@ -1,0 +1,43 @@
+﻿
+@model PrnHomeViewModel
+
+@{
+    var title = "";
+    ViewData["Title"] = title;
+}
+
+<main class="govuk-main-wrapper" id="main-content" role="main">
+
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+            <h1 class="govuk-heading-xl govuk-!-margin-bottom-6 break-word">Raise a PRN</h1>
+
+            <h2 class="govuk-heading-m">Materials for: 156 Hamilton Road</h2>
+        </div>
+    </div>
+
+    <div class="govuk-summary">
+        <table class="govuk-table govuk-!-margin-bottom-0 responsive-table">
+            <caption class="govuk-visually-hidden">Localizer[Model.Status == SubmittedToRegulator ? "detail_regarding_the_latest_file_submitted" : "detail_regarding_the_latest_file_uploaded"]</caption>
+            <thead class="govuk-table__head">
+                <tr class="govuk-table__row">
+                    <th scope="col" class="govuk-table__header">Material</th>
+                    <th scope="col" class="govuk-table__header">Current balance</th>
+                    <th scope="col" class="govuk-table__header">Balance of PRNs waiting authorisation</th>
+                    <th scope="col" class="govuk-table__header">Available balance to raise PRNs</th>
+                    <th scope="col" class="govuk-table__header"></th>
+                </tr>
+            </thead>
+            <tbody class="govuk-table__body">
+                <tr class="govuk-table__row">
+                    <td data-heading="fileNameHeader" class="govuk-table__cell break-word">CompanyDetailsFileName</td>
+                    <td data-heading="dateHeader" class="govuk-table__cell break-word">Company Details FileUpload Date</td>
+                    <td data-heading="userHeader" class="govuk-table__cell break-word">Company Details FileUploaded By</td>
+                    <td data-heading="userHeader" class="govuk-table__cell break-word">UploadedBy</td>
+                    <td data-heading="userHeader" class="govuk-table__cell break-word"> <a href="#">Raise PRN</a></td>
+                </tr>              
+            </tbody>
+        </table>
+    </div>
+
+</main>

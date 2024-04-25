@@ -20,18 +20,18 @@ using PRNPortal.UI.Resources.Views.Compliance;
 
 namespace PRNPortal.UI.Controllers;
 
-public class PackagingRecoveryNoteController : Controller
+public class PackagingRecyclingNoteController : Controller
 {
     private readonly ISessionManager<FrontendSchemeRegistrationSession> _sessionManager;
     private readonly IComplianceSchemeService _complianceSchemeService;
     private readonly IAuthorizationService _authorizationService;
     private readonly INotificationService _notificationService;
     private readonly List<SubmissionPeriod> _submissionPeriods;
-    private readonly ILogger<PackagingRecoveryNoteController> _logger;
+    private readonly ILogger<PackagingRecyclingNoteController> _logger;
 
-    public PackagingRecoveryNoteController(
+    public PackagingRecyclingNoteController(
         ISessionManager<FrontendSchemeRegistrationSession> sessionManager,
-        ILogger<PackagingRecoveryNoteController> logger,
+        ILogger<PackagingRecyclingNoteController> logger,
         IComplianceSchemeService complianceSchemeService,
         IAuthorizationService authorizationService,
         INotificationService notificationService,
@@ -43,6 +43,22 @@ public class PackagingRecoveryNoteController : Controller
         _notificationService = notificationService;
         _submissionPeriods = globalVariables.Value.SubmissionPeriods;
         _logger = logger;
+    }
+
+    [HttpGet]
+    [Authorize(Policy = PolicyConstants.EprSelectSchemePolicy)]
+    [Route(PagePaths.PrnView)]
+    public ActionResult Get()
+    {
+        return View();
+    }
+
+    [HttpGet]
+    [Authorize(Policy = PolicyConstants.EprSelectSchemePolicy)]
+    [Route(PagePaths.PrnDetail)]
+    public ActionResult PrnDetail()
+    {
+        return View();
     }
 
     [HttpGet]

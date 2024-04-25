@@ -33,7 +33,7 @@
     <data name="change_or_remove_compliance_scheme" xml:space="preserve">
         <value>Change or remove compliance scheme</value>
     </data>
-    <data name="handling_packaging_recovery_notes_(PRNs)_and_packaging_export_recovery_notes_(PERNs)" xml:space="preserve">
+    <data name="handling_packaging_recycling_notes_(PRNs)_and_packaging_export_recovery_notes_(PERNs)" xml:space="preserve">
         <value>handling packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs) - these are evidence that packaging has been recycled, recovered or exported</value>
     </data>
     <data name="compliance_scheme_name" xml:space="preserve">

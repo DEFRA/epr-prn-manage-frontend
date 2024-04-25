@@ -20,7 +20,7 @@
     <data name="report_packaging_data" xml:space="preserve">
         <value>Rhoi gwybod am ddata pecynwaith</value>
     </data>
-    <data name="packaging_recovery_notes" xml:space="preserve">
+    <data name="packaging_recycling_notes" xml:space="preserve">
         <value>Nodiadau ailgylchu gwastraff pecynwaith (PRNs) a nodiadau ailgylchu allforio pecynwaith gwastraff (PERNs)</value>
     </data>
     <data name="no_action_needed_at_the_moment" xml:space="preserve">

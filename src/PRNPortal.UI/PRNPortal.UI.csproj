@@ -962,10 +962,10 @@
     </ItemGroup>
 
     <ItemGroup>
-        <AdditionalFiles Include="Views\PRNPortal\LandingPage.cshtml" />
-        <AdditionalFiles Include="Views\PRNPortal\SelectComplianceScheme.cshtml" />
-        <AdditionalFiles Include="Views\PRNPortal\Stop.cshtml" />
-        <AdditionalFiles Include="Views\PRNPortal\UsingComplianceScheme.cshtml" />
+        <AdditionalFiles Include="Views\PrnPortal\LandingPage.cshtml" />
+        <AdditionalFiles Include="Views\PrnPortal\SelectComplianceScheme.cshtml" />
+        <AdditionalFiles Include="Views\PrnPortal\Stop.cshtml" />
+        <AdditionalFiles Include="Views\PrnPortal\UsingComplianceScheme.cshtml" />
     </ItemGroup>
 
     <ItemGroup>

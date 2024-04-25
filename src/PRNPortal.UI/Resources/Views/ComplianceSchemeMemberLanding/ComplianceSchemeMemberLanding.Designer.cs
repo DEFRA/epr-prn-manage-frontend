@@ -109,9 +109,9 @@ namespace PRNPortal.UI.Resources.Views.ComplianceSchemeMemberLanding {
         /// <summary>
         ///   Looks up a localized string similar to .
         /// </summary>
-        internal static string handling_packaging_recovery_notes__PRNs__and_packaging_export_recovery_notes__PERNs_ {
+        internal static string handling_packaging_recycling_notes__PRNs__and_packaging_export_recovery_notes__PERNs_ {
             get {
-                return ResourceManager.GetString("handling_packaging_recovery_notes_(PRNs)_and_packaging_export_recovery_notes_(PER" +
+                return ResourceManager.GetString("handling_packaging_recycling_notes_(PRNs)_and_packaging_export_recovery_notes_(PER" +
                         "Ns)", resourceCulture);
             }
         }
