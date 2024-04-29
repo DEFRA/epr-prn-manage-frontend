@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PRNPortal.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PRNPortal.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\css\\application.css",
+      "PackagePath": "staticwebassets\\css\\application.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\fonts\\bold-affa96571d-v2.woff",
+      "PackagePath": "staticwebassets\\fonts\\bold-affa96571d-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\fonts\\bold-b542beb274-v2.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bold-b542beb274-v2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\fonts\\light-94a07e06a1-v2.woff2",
+      "PackagePath": "staticwebassets\\fonts\\light-94a07e06a1-v2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\fonts\\light-f591b13f7d-v2.woff",
+      "PackagePath": "staticwebassets\\fonts\\light-f591b13f7d-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-apple-touch-icon-152x152.png",
+      "PackagePath": "staticwebassets\\images\\govuk-apple-touch-icon-152x152.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-apple-touch-icon-167x167.png",
+      "PackagePath": "staticwebassets\\images\\govuk-apple-touch-icon-167x167.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-apple-touch-icon-180x180.png",
+      "PackagePath": "staticwebassets\\images\\govuk-apple-touch-icon-180x180.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\govuk-apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-crest-2x.png",
+      "PackagePath": "staticwebassets\\images\\govuk-crest-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-crest.png",
+      "PackagePath": "staticwebassets\\images\\govuk-crest.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-logotype-crown.png",
+      "PackagePath": "staticwebassets\\images\\govuk-logotype-crown.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-mask-icon.svg",
+      "PackagePath": "staticwebassets\\images\\govuk-mask-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\govuk-opengraph-image.png",
+      "PackagePath": "staticwebassets\\images\\govuk-opengraph-image.png"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\js\\govuk.js",
+      "PackagePath": "staticwebassets\\js\\govuk.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\js\\print.js",
+      "PackagePath": "staticwebassets\\js\\print.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\js\\refresh.js",
+      "PackagePath": "staticwebassets\\js\\refresh.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a898001\\source\\repos\\epr-prn-manage-frontend-IW\\src\\PRNPortal.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PRNPortal.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PRNPortal.UI.props",
+      "PackagePath": "build\\PRNPortal.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PRNPortal.UI.props",
+      "PackagePath": "buildMultiTargeting\\PRNPortal.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PRNPortal.UI.props",
+      "PackagePath": "buildTransitive\\PRNPortal.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

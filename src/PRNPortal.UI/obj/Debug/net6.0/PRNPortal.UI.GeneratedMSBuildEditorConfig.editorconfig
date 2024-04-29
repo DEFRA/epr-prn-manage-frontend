@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRNPortal.UI
+build_property.RootNamespace = PRNPortal.UI
+build_property.ProjectDir = C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Cookies/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llc1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/PackagingRecyclingNote/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnaW5nUmVjeWNsaW5nTm90ZVxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/PackagingRecyclingNote/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnaW5nUmVjeWNsaW5nTm90ZVxMYW5kaW5nUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/PackagingRecyclingNote/PrnDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnaW5nUmVjeWNsaW5nTm90ZVxQcm5EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Components/CookieBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29va2llQmFubmVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Components/LanguageSwitcher/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFuZ3VhZ2VTd2l0Y2hlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Components/PendingApprovalNotification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGVuZGluZ0FwcHJvdmFsTm90aWZpY2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Components/PhaseBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGhhc2VCYW5uZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Components/PrimaryNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJpbWFyeU5hdmlnYXRpb25cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_AccountActionBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9BY2NvdW50QWN0aW9uQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_BackLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9CYWNrTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvclN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorsViewModelError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvcnNWaWV3TW9kZWxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_ErrorsViewModelSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9FcnJvcnNWaWV3TW9kZWxTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_FormItemError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Gb3JtSXRlbUVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_HomeLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9Ib21lTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Govuk/_WarningText.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdvdnVrXF9XYXJuaW5nVGV4dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/NominatedDelegatedPerson/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vbWluYXRlZERlbGVnYXRlZFBlcnNvblxfRXJyb3JTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/NominatedDelegatedPerson/_FormItemError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vbWluYXRlZERlbGVnYXRlZFBlcnNvblxfRm9ybUl0ZW1FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Notifications/_NominatedAsDelegatedPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vdGlmaWNhdGlvbnNcX05vbWluYXRlZEFzRGVsZWdhdGVkUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/Notifications/_WaitingForApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE5vdGlmaWNhdGlvbnNcX1dhaXRpbmdGb3JBcHByb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/Partials/SchemeMembership/_ErrorSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNjaGVtZU1lbWJlcnNoaXBcX0Vycm9yU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vgtzx5iu09
+
+[C:/Users/a898001/source/repos/epr-prn-manage-frontend-IW/src/PRNPortal.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xlff7w8s4v

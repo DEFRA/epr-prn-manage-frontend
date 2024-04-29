@@ -1,0 +1,12 @@
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\bin\Debug\net6.0\PRNPortal.Application.deps.json
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\bin\Debug\net6.0\PRNPortal.Application.dll
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\bin\Debug\net6.0\PRNPortal.Application.pdb
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.csproj.AssemblyReference.cache
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.AssemblyInfoInputs.cache
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.AssemblyInfo.cs
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.csproj.CoreCompileInputs.cache
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.dll
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\refint\PRNPortal.Application.dll
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\PRNPortal.Application.pdb
+C:\Users\a898001\source\repos\epr-prn-manage-frontend-IW\src\PRNPortal.Application\obj\Debug\net6.0\ref\PRNPortal.Application.dll

@@ -1,0 +1,16 @@
+@* @inject IAuthorizationService AuthorizationService;
+
+@{
+    ViewData["Title"] = Localizer["you_have_created_an_account_for_x", Model.OrganisationName];
+}
+
+@using Microsoft.AspNetCore.Authorization
+@using EPR.Common.Authorization.Constants
+
+@model LandingPageViewModel
+@using (Html.BeginForm("LandingPage", "PRNPortal", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.OrganisationId)
+    @Html.HiddenFor(x => x.OrganisationName)
+   
+} *@
