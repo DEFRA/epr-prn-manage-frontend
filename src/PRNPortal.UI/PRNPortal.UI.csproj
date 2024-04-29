@@ -12,6 +12,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="ViewModels\GovUk\NewFolder\**" />
       <Compile Remove="Views\FileUploadBrandsSuccess\**" />
       <Compile Remove="Views\FileUploadBrands\**" />
       <Compile Remove="Views\FileUploadCheckFileAndSubmit\**" />
@@ -35,6 +36,7 @@
       <Compile Remove="Views\NominatedDelegatedPerson\**" />
       <Compile Remove="Views\OrganisationDetailsSubmissionFailed\**" />
       <Compile Remove="Views\UploadNewFileToSubmit\**" />
+      <Content Remove="ViewModels\GovUk\NewFolder\**" />
       <Content Remove="Views\FileUploadBrandsSuccess\**" />
       <Content Remove="Views\FileUploadBrands\**" />
       <Content Remove="Views\FileUploadCheckFileAndSubmit\**" />
@@ -58,6 +60,7 @@
       <Content Remove="Views\NominatedDelegatedPerson\**" />
       <Content Remove="Views\OrganisationDetailsSubmissionFailed\**" />
       <Content Remove="Views\UploadNewFileToSubmit\**" />
+      <EmbeddedResource Remove="ViewModels\GovUk\NewFolder\**" />
       <EmbeddedResource Remove="Views\FileUploadBrandsSuccess\**" />
       <EmbeddedResource Remove="Views\FileUploadBrands\**" />
       <EmbeddedResource Remove="Views\FileUploadCheckFileAndSubmit\**" />
@@ -81,6 +84,7 @@
       <EmbeddedResource Remove="Views\NominatedDelegatedPerson\**" />
       <EmbeddedResource Remove="Views\OrganisationDetailsSubmissionFailed\**" />
       <EmbeddedResource Remove="Views\UploadNewFileToSubmit\**" />
+      <None Remove="ViewModels\GovUk\NewFolder\**" />
       <None Remove="Views\FileUploadBrandsSuccess\**" />
       <None Remove="Views\FileUploadBrands\**" />
       <None Remove="Views\FileUploadCheckFileAndSubmit\**" />
@@ -978,7 +982,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
         <Compile Update="Resources\Views\DeclarationWithFullName\DeclarationWithFullName.Designer.cs">
             <DesignTime>True</DesignTime>
             <AutoGen>True</AutoGen>
@@ -1001,7 +1004,6 @@
         </Compile>
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
         <EmbeddedResource Update="Resources\Views\FileUploadCheckFileAndSubmit\FileUploadCheckFileAndSubmit.resx">
             <Generator>ResXFileCodeGenerator</Generator>
             <LastGenOutput>FileUploadCheckFileAndSubmit.Designer.cs</LastGenOutput>
@@ -1073,7 +1075,6 @@
         </Compile>
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="EPR.Common.Authorization" Version="1.0.14" />
@@ -1149,7 +1150,6 @@
         <_ContentIncludedByDefault Remove="Views\Shared\Partials\SubmissionFailed\_SubmissionFailed.cshtml" />
     </ItemGroup>
     <ItemGroup>
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
         <Compile Update="Resources\Views\DeclarationWithFullName\DeclarationWithFullName.Designer.cs">
             <DesignTime>True</DesignTime>
             <AutoGen>True</AutoGen>
@@ -1172,7 +1172,6 @@
         </Compile>
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
         <EmbeddedResource Update="Resources\Views\FileUploadCheckFileAndSubmit\FileUploadCheckFileAndSubmit.resx">
             <Generator>ResXFileCodeGenerator</Generator>
             <LastGenOutput>FileUploadCheckFileAndSubmit.Designer.cs</LastGenOutput>
@@ -1271,7 +1270,6 @@
         </Compile>
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
         <_ContentIncludedByDefault Remove="Views\FileUploadSuccess\FileUploadSuccess.cshtml" />
-        <Folder Include="ViewModels\GovUk\NewFolder\" />
     </ItemGroup>
 	<ItemGroup>
 		<SonarQubeSetting Include="sonar.coverage.exclusions">
