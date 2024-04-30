@@ -6,6 +6,8 @@
         NominatedDelegatedPerson = 1,
         NominatedDelegatedPersonStart = 2,
         SchemeMembership = 3,
-        SchemeMembershipStart = 4
+        SchemeMembershipStart = 4,
+        RaisePrn =5
+
     }
 }
