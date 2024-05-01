@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using PRNPortal.Application.Constants;
 using PRNPortal.Application.Options;
+using PRNPortal.UI.ViewModels;
 
 namespace PRNPortal.UI.Controllers;
 
@@ -21,11 +22,23 @@ public class PackagingRecyclingNoteController : Controller
         _logger = logger;
     }
 
+    //TODO: Uncomment once we hook up with real API
+    //[HttpGet]
+    //[Route(PagePaths.PrnView)]
+    //public ActionResult Get()
+    //{
+    //    return View();
+    //}
+
     [HttpGet]
     [Route(PagePaths.PrnView)]
-    public ActionResult Get()
+    public ActionResult Get(string user)
     {
-        return View();
+        PrnHomeViewModel model = new PrnHomeViewModel { OrganisationName = "Tesco", OrganisationNumber = "11244" };
+        MaterialData materialData = new MaterialData { MaterialName = "Paper/Board", CurrentBalanace = 500.04, BalanceAwaitingAuthorisation = 200.0, AvialableBalanace = 300.04 };
+        model.MaterialDataList.Add(materialData);
+
+        return View(model);
     }
 
     [HttpGet]

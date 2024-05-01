@@ -1,5 +1,4 @@
-﻿
-@model PrnHomeViewModel
+﻿@model PrnHomeViewModel
 
 @{
     var title = "";
@@ -28,15 +27,22 @@
                     <th scope="col" class="govuk-table__header"></th>
                 </tr>
             </thead>
-            <tbody class="govuk-table__body">
-                <tr class="govuk-table__row">
-                    <td data-heading="fileNameHeader" class="govuk-table__cell break-word">CompanyDetailsFileName</td>
-                    <td data-heading="dateHeader" class="govuk-table__cell break-word">Company Details FileUpload Date</td>
-                    <td data-heading="userHeader" class="govuk-table__cell break-word">Company Details FileUploaded By</td>
-                    <td data-heading="userHeader" class="govuk-table__cell break-word">UploadedBy</td>
-                    <td data-heading="userHeader" class="govuk-table__cell break-word"> <a href="#">Raise PRN</a></td>
-                </tr>              
-            </tbody>
+            @if (Model.MaterialDataList?.Count > 0)
+            {
+                <tbody class="govuk-table__body">
+                    @foreach (var material in Model.MaterialDataList)
+                    {
+                        <tr class="govuk-table__row">
+                            <td data-heading="fileNameHeader" class="govuk-table__cell break-word">@material.MaterialName</td>
+                            <td data-heading="dateHeader" class="govuk-table__cell break-word">@material.CurrentBalanace tonnes</td>
+                            <td data-heading="userHeader" class="govuk-table__cell break-word">@material.BalanceAwaitingAuthorisation tonnes</td>
+                            <td data-heading="userHeader" class="govuk-table__cell break-word">@material.AvialableBalanace tonnes</td>
+                            <td data-heading="userHeader" class="govuk-table__cell break-word"> <a href="#">Raise PRN</a></td>
+                        </tr>
+                    }
+                </tbody>
+            }
+
         </table>
     </div>
 
