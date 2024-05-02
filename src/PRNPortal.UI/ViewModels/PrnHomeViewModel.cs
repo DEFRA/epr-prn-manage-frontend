@@ -8,6 +8,8 @@ public class PrnHomeViewModel
 
    public List<MaterialData> MaterialDataList { get; set; } =  new List<MaterialData>();
 
+    public string? SiteInfo { get; set; }   
+
 }
 
 //TODO: Should be removed later            

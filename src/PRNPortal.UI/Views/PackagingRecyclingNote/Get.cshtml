@@ -11,24 +11,26 @@
         <div class="govuk-grid-column-full">
             <h1 class="govuk-heading-xl govuk-!-margin-bottom-6 break-word">Raise a PRN</h1>
 
-            <h2 class="govuk-heading-m">Materials for: 156 Hamilton Road</h2>
+            <h2 class="govuk-heading-m">Materials for: @Model.SiteInfo</h2>
         </div>
     </div>
 
     <div class="govuk-summary">
         <table class="govuk-table govuk-!-margin-bottom-0 responsive-table">
             <caption class="govuk-visually-hidden">Localizer[Model.Status == SubmittedToRegulator ? "detail_regarding_the_latest_file_submitted" : "detail_regarding_the_latest_file_uploaded"]</caption>
-            <thead class="govuk-table__head">
-                <tr class="govuk-table__row">
-                    <th scope="col" class="govuk-table__header">Material</th>
-                    <th scope="col" class="govuk-table__header">Current balance</th>
-                    <th scope="col" class="govuk-table__header">Balance of PRNs waiting authorisation</th>
-                    <th scope="col" class="govuk-table__header">Available balance to raise PRNs</th>
-                    <th scope="col" class="govuk-table__header"></th>
-                </tr>
-            </thead>
+            
             @if (Model.MaterialDataList?.Count > 0)
             {
+                <thead class="govuk-table__head">
+                    <tr class="govuk-table__row">
+                        <th scope="col" class="govuk-table__header">Material</th>
+                        <th scope="col" class="govuk-table__header">Current balance</th>
+                        <th scope="col" class="govuk-table__header">Balance of PRNs waiting authorisation</th>
+                        <th scope="col" class="govuk-table__header">Available balance to raise PRNs</th>
+                        <th scope="col" class="govuk-table__header"></th>
+                    </tr>
+                </thead>
+
                 <tbody class="govuk-table__body">
                     @foreach (var material in Model.MaterialDataList)
                     {
@@ -41,6 +43,10 @@
                         </tr>
                     }
                 </tbody>
+            }
+            else
+            {
+                    <p class="govuk-details">  Sorry no material data to display! </p>
             }
 
         </table>
