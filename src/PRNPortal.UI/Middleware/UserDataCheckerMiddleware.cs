@@ -31,6 +31,7 @@ public class UserDataCheckerMiddleware : IMiddleware
         if (!anonControllers.Any(c => c == controllerName) && context.User.Identity is { IsAuthenticated: true } && context.User.TryGetUserData() is null)
         {
             var userAccount = await _userAccountService.GetUserAccount();
+           // UserAccountDto? userAccount = new UserAccountDto { User = new User { Organisations = new List<Application.DTOs.UserAccount.Organisation>() } };
 
             if (userAccount is null)
             {
