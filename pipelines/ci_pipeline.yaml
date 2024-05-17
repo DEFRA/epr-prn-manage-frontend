@@ -27,7 +27,7 @@ parameters:
 pool: DEFRA-COMMON-ubuntu2004-SSV3
 
 variables:
-  - template: vars/Team-5_Phoenix-development.yaml
+  - template: vars/DEV5-development.yaml
   - name: solutionFolder
     value: src
   - name: projectFolder
